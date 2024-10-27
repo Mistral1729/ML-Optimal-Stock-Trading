@@ -76,3 +76,6 @@ After that we:
 
 Finally we visualise portfolio returns and compare to S&P 500 returns.
 
+![Strategy Returns vs SPY Buy&Hold](https://github.com/user-attachments/assets/144cada6-1acb-471b-942f-e52d349bed29)
+![Adjusted Returns](https://github.com/user-attachments/assets/efb554eb-7ccc-4e40-b70e-4106e805ece1)
+
