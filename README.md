@@ -42,7 +42,7 @@ Features and technical indicators to calculate for each stock:
   Given by $$\frac{1}{n}\sum_{t=1}^n TR(t),$$ where $n$ is the number of periods, and $TR(t)$ is the true range of day $t$ defined by $$TR(t)=\max((H_t-L_t), |H_t - C_{t-1}|, |L_t - C_{t-1}|).$$
 - ### Moving average convergence divergence (MACD)
 
-  Given by $\mathrm{MACD} = \mathrm{EMA}_{12} - \mathrm{EMA}_{26},$ where $\mathrm{EMA}_t$ denotes the exponential moving average over $t$ periods.
+  Given by $\mathrm{MACD} = \mathrm{EMA}\_{12} - \mathrm{EMA}\_{26},$ where $\mathrm{EMA}_t$ denotes the exponential moving average over $t$ periods.
 - ### Dollar volume liquidity
 
   Dollar volume liquidity is the price of a stock multiplied by its daily trading volume
