@@ -47,6 +47,7 @@ To reduce the model's training time we aggregate the data on a monthly level, fi
 3. value,
 4. operating profitability, and
 5. investment
+
 which have been empirically proven for asset returns and are used to assess the risk/return profile of portfolios. It is natural to include past factor exposures as financial features in our model.
 
 We filter out stocks with < 10 months of data, then calculate rolling factor betas and join it with the main features dataframe. Finally, we use an unsupervised $K$-Means clustering algorithm to group similar assets based on their features into 4 clusters. 
@@ -75,4 +76,7 @@ After that we:
 * Calculate daily portfolio returns.
 
 Finally we visualise portfolio returns and compare to S&P 500 returns.
+
+![Strategy Returns vs SPY Buy&Hold](https://github.com/user-attachments/assets/144cada6-1acb-471b-942f-e52d349bed29)
+![Adjusted Returns](https://github.com/user-attachments/assets/efb554eb-7ccc-4e40-b70e-4106e805ece1)
 
