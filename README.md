@@ -15,8 +15,8 @@ A machine learning model for optimal stock trading.
 - PyPortfolioOpt
 
 ## Datasets and API used:
-[List of current S&P500 stocks from Wikipedia (as of October 2024)](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies#S&P_500_component_stocks)
-[Yahoo Finance API](https://pypi.org/project/yfinance/)
+- [List of current S&P500 stocks from Wikipedia (as of October 2024)](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies#S&P_500_component_stocks)
+- [Yahoo Finance API](https://pypi.org/project/yfinance/)
 
 ## Methodology 
 
