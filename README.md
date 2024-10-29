@@ -20,6 +20,8 @@ A machine learning model for optimal stock trading.
 
 ## Methodology 
 
+### Aim: An unsupervised ML model that can eventually outperform the SPY S&P500 ETF in the long run in terms of returns.
+
 Features and technical indicators to calculate for each stock:
 - ### Garman-Klass volatility
 
